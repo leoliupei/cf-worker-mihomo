@@ -173,8 +173,8 @@ export function configs(mihomo = '', singbox = '') {
                         value: 'https://raw.githubusercontent.com/Lanlan13-14/Rules/main/configfull.yaml',
                     },
                     {
-                        label: 'configfull_NoAd 全分组版 (无去广告) (与Github同步)',
-                        value: 'https://raw.githubusercontent.com/Lanlan13-14/Rules/main/configfull_NoAd.yaml',
+                        label: 'configfull_NoAd 全分组版 (无去广告) (Leo修改版本)',
+                        value: 'https://raw.githubusercontent.com/leoliupei/ClashRules/refs/heads/main/configfull_NoAd.yaml',
                     },
                     {
                         label: 'configfull_NoAd_lite 全分组版 (无去广告) (精简版) (与Github同步)',
